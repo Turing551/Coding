@@ -1,0 +1,30 @@
+Given a string (of maximum length 1000), that denotes a large number. Perform the operation of modulo by 11 to get a remainder.
+
+
+
+Format:
+
+Input:
+
+Given input is a large number in the form of a string.
+
+Output:
+
+Return the remainder modulo 11 of a given input.
+
+
+
+Example:
+
+Input:
+
+121
+
+Output:
+
+0
+
+Explanation:
+
+121 mod 11 = 0
+
